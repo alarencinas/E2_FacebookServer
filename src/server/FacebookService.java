@@ -22,7 +22,7 @@ public class FacebookService extends Thread  { //for the start
 			this.start();
 			
 			//Facebook USers
-			hashFacebook.put("astro@hotmail.com", "nauta");
+			hashFacebook.put("felipe@gmail.com", "felipe");
 			
 		} catch (Exception e) {
 			System.err.println("# FacebookService - TCPConnection IO error:" + e.getMessage());
